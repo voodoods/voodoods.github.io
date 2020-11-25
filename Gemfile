@@ -1,1 +1,1 @@
-gem 'jekyll-remote-theme', git: 'https://github.com:benbalter/jekyll-remote-theme.git'
+gem 'agency-jekyll-theme', git: 'https://github.com/y7kim/agency-jekyll-theme.gitt'
