@@ -7,26 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://voodoods.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://voodoods.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coming soon</title>
+      <link>https://voodoods.github.io/blog/2021-10-18_testing-react-vs-angular/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://voodoods.github.io/blog/2021-10-18_testing-react-vs-angular/</guid>
+      <description>What to expect? Seriously, who still writes blogs in 2021? Isn&amp;rsquo;t that more like an early 2000s thing? I tried and gave up on this a while back already. Still, every now and again this urge to go on the internet and rant about stuff I experience in my daily work life itches me in the back of my head.
+&amp;ldquo;If you want to rant, why don&amp;rsquo;t you go on social media?</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://voodoods.github.io/about/</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://voodoods.github.io/about/</guid>
-      <description>Script Terror is a blog about web software development by Norman Steger.
-Norman is a Software Engineer with a preference for JavaScript and TypeScript based technology stacks located in Regensburg, Germany. While also not shy of working on webservices in the backend, he is most enthusiastic about:
+      <description>Script Terror is a blog about agile software engineering by Norman Steger.
+Norman is a full stack software engineer with a passion for JavaScript and TypeScript based technology stacks living in Regensburg, Germany. He is most passionate about:
  user experience agile methodology test driven development behavior driven development  Currently he works as a consultant at Comsysto Reply GmbH, where he helps customers in industries like automotive, telecommunications, insurance, transportation or finance to build digital experiences for tomorrow.</description>
-    </item>
-    
-    <item>
-      <title>Why Testing in React is superior to Angular</title>
-      <link>https://voodoods.github.io/blog/2021-10-18_testing-react-vs-angular/</link>
-      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://voodoods.github.io/blog/2021-10-18_testing-react-vs-angular/</guid>
-      <description>Or: Why I hate unit testing in Angular Every good article needs to start with a click-baity title that polarizes the masses. And thus I can already feel an army of enfuriated Angular developers breathing down my neck as I write these lines.
-Since you naturally practice TDD, bcause you&amp;rsquo;re a responsible professional (even though you probably don&amp;rsquo;t), you will know that testing logic Angular down to the method can be a pain in the ass.</description>
     </item>
     
   </channel>
