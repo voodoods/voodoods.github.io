@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Script Terror</title>
+    <link>https://voodoods.github.io/blog/</link>
+    <description>Recent content in Blogs on Script Terror</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://voodoods.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Testing in React is superior to Angular</title>
+      <link>https://voodoods.github.io/blog/2021-10-18_testing-react-vs-angular/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://voodoods.github.io/blog/2021-10-18_testing-react-vs-angular/</guid>
+      <description>Or: Why I hate unit testing in Angular Every good article needs to start with a click-baity title that polarizes the masses. And thus I can already feel an army of enfuriated Angular developers breathing down my neck as I write these lines.
+Since you naturally practice TDD, bcause you&amp;rsquo;re a responsible professional (even though you probably don&amp;rsquo;t), you will know that testing logic Angular down to the method can be a pain in the ass.</description>
+    </item>
+    
+  </channel>
+</rss>

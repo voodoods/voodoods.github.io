@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Script Terror</title>
+    <link>https://voodoods.github.io/</link>
+    <description>Recent content on Script Terror</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://voodoods.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://voodoods.github.io/about/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://voodoods.github.io/about/</guid>
+      <description>Script Terror is a blog about web software development by Norman Steger.
+Norman is a Software Engineer with a preference for JavaScript and TypeScript based technology stacks located in Regensburg, Germany. While also not shy of working on webservices in the backend, he is most enthusiastic about:
+ user experience agile methodology test driven development behavior driven development  Currently he works as a consultant at Comsysto Reply GmbH, where he helps customers in industries like automotive, telecommunications, insurance, transportation or finance to build digital experiences for tomorrow.</description>
+    </item>
+    
+    <item>
+      <title>Why Testing in React is superior to Angular</title>
+      <link>https://voodoods.github.io/blog/2021-10-18_testing-react-vs-angular/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://voodoods.github.io/blog/2021-10-18_testing-react-vs-angular/</guid>
+      <description>Or: Why I hate unit testing in Angular Every good article needs to start with a click-baity title that polarizes the masses. And thus I can already feel an army of enfuriated Angular developers breathing down my neck as I write these lines.
+Since you naturally practice TDD, bcause you&amp;rsquo;re a responsible professional (even though you probably don&amp;rsquo;t), you will know that testing logic Angular down to the method can be a pain in the ass.</description>
+    </item>
+    
+  </channel>
+</rss>
